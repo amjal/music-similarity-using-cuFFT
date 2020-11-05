@@ -1,0 +1,14 @@
+samples/*
+complete/*
+converter/ffplay
+converter/ffmpeg
+converter/ffprobe
+converter/Converted/*
+converter/Data/*
+converter/get-pip.py
+soundfile-2.2
+.idea
+**/*.exe
+**/*.zip
+**/*.rar
+**/output
